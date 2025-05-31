@@ -45,8 +45,9 @@ function App() {
       <nav className="bg-white shadow-sm fixed w-full z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex justify-between items-center">
-            <div className="flex items-center">
+            <div className="flex items-center space-x-3">
               <img src="/cocherago-removebg-preview.png" alt="CocheraGo Logo" className="h-12" />
+              <span className="text-2xl font-bold text-gray-900">CocheraGO</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#how-it-works" className="text-gray-600 hover:text-blue-600">Cómo funciona</a>
