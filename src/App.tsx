@@ -85,7 +85,7 @@ function App() {
             <div className="relative">
               <div className="relative z-10 transform hover:scale-105 transition duration-500">
                 <img
-                  src="https://images.pexels.com/photos/6964099/pexels-photo-6964099.jpeg"
+                  src="https://firebasestorage.googleapis.com/v0/b/sorteos-48def.appspot.com/o/imagenes%2Fcochera1.jpeg?alt=media&token=5ef1ba30-6bc8-4308-9d24-f95aba12af04"
                   alt="App Preview"
                   className="rounded-2xl shadow-2xl"
                 />
